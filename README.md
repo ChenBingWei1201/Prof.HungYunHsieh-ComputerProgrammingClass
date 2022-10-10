@@ -1,1 +1,1 @@
-# 2022_Autumn_Computer_Program_practice
+# 2022_Autumn_Computer_Program
