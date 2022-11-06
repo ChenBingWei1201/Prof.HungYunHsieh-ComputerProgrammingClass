@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include <cstring>
+#include <iomanip>
 using namespace std;
 
 struct record 
