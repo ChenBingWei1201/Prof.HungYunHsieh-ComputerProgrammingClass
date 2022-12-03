@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//int *p; int* p;
 class PhoneNumber
 {
 	friend ostream & operator<<(ostream &, const PhoneNumber &);
